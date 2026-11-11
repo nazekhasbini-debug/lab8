@@ -1,0 +1,6 @@
+.git
+venv
+__pycache__
+*.pyc
+INSTRUCTIONS.md
+*.postman_collection.json
